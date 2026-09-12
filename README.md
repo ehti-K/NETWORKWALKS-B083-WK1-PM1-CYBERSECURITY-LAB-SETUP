@@ -48,7 +48,7 @@ The main objectives of this lab were to:
                          10.0.0.1  
 📸 Screenshot — Lab Architecture
 
-[INSERT SCREENSHOT HERE — VIRTUALBOX NAT NETWORK / LAB ARCHITECTURE]
+![Lab Architecture](3.LabArchitecture.JPG)
 
 ## 💻 4. System Configuration
 🖥️ Host System  
