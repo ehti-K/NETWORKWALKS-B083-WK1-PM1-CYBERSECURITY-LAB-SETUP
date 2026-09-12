@@ -48,7 +48,7 @@ The main objectives of this lab were to:
                          10.0.0.1  
 📸 Screenshot — Lab Architecture
 
-![Lab Architecture](3.LabArchitecture.JPG)
+![Lab Architecture](6.2VirtualBoxInstallation.JPG)
 
 ## 💻 4. System Configuration
 🖥️ Host System  
@@ -86,7 +86,7 @@ DNS Servers	8.8.8.8, 10.0.0.1
 
 📸 Screenshot
 
-[INSERT SCREENSHOT HERE — 7-ZIP INSTALLATION]
+![7Zip Installation](6.17Zip.JPG)
 
 ### 6.2 💻 Installing VirtualBox
 
@@ -98,7 +98,7 @@ VirtualBox 7.2.16 r174877
 Qt 6.8.0  
 📸 Screenshot
 
-[INSERT SCREENSHOT HERE — VIRTUALBOX VERSION / INSTALLATION]
+![Installing VirtualBox](6.2VirtualBoxInstallation.JPG)
 
 ## 🌐 7. NAT Network Configuration
 
@@ -112,7 +112,7 @@ DHCP was disabled because Kali Linux was configured with a manual/static IP addr
 
 📸 Screenshot
 
-[INSERT SCREENSHOT HERE — NAT NETWORK SETTINGS]
+![VirtualNatNetwork](7.NATNetwork.JPG)
 
 ### 7.1 🐉 Importing Kali Linux
 
@@ -122,7 +122,7 @@ Its network adapter was connected to the VirtualBox NAT Network.
 
 📸 Screenshot
 
-[INSERT SCREENSHOT HERE — KALI VM SETTINGS / NETWORK ADAPTER]
+![Importing Kali](7.ImportingKaliLinux.JPG)
 
 ## 📍 8. Kali Linux Network Configuration
 ### 8.1 🔢 Static IP Configuration
@@ -135,7 +135,7 @@ DNS        : 8.8.8.8
              10.0.0.1  
 📸 Screenshot
 
-[INSERT SCREENSHOT HERE — KALI STATIC IP CONFIGURATION]
+![Kali Network Configuartion](8.kalilinuxnetwork.JPG)
 
 ### 8.2 🔎 Checking the Network Interface
 
@@ -144,7 +144,7 @@ The following command was used to inspect the network interfaces and IP configur
 ip a
 📸 Screenshot
 
-[INSERT SCREENSHOT HERE — OUTPUT OF ip a]
+![IP a Command](8.2ipa.JPG)
 
 ## 📡 9. Network and DNS Verification
 
@@ -158,7 +158,7 @@ A successful response confirmed that the Kali machine could reach the network an
 
 📸 Screenshot
 
-[INSERT SCREENSHOT HERE — SUCCESSFUL ping google.com]
+![Ping Network](10.DNS.JPG)
 
 ## 🧩 10. Troubleshooting
 ⚠️ Network Connectivity Problem
@@ -174,7 +174,7 @@ After restarting the connection, connectivity was tested again with ping google.
 
 📸 Screenshot
 
-[INSERT SCREENSHOT HERE — nmcli COMMANDS / RESULTS]
+![Troubleshoot](11.Troubleshooting.JPG)
 
 ## 💾 11. VirtualBox Snapshot
 
@@ -182,7 +182,7 @@ After the initial configuration, a VirtualBox snapshot was created to preserve a
 
 📸 Screenshot
 
-[INSERT SCREENSHOT HERE — VIRTUALBOX SNAPSHOT]
+![Snapshot](9.Snapshot.JPG)
 
 ## ✅ 12. Final Network Configuration
 VirtualBox Network Type : NAT Network  
