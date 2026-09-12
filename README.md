@@ -1,18 +1,18 @@
 # 🛡️ NETWORKWALKS-B083-WK1-PM1-CYBERSECURITY-LAB-SETUP
 ## 🔐 Week 1 — Cybersecurity Lab Setup
 
-Participant: B083
-Program: Networkwalks Cybersecurity
-Week: 01
-Project: PM1 — Cybersecurity Lab Setup
+Participant: B083  
+Program: Networkwalks Cybersecurity  
+Week: 01  
+Project: PM1 — Cybersecurity Lab Setup  
 
 ## 📌 1. Project Overview
 
-This project documents the setup of my cybersecurity laboratory environment for Week 1 of the Networkwalks Cybersecurity program.
+This project documents the setup of my cybersecurity laboratory environment for Week 1 of the Networkwalks Cybersecurity program.  
 
-The goal was to create a controlled virtual environment where I can safely practice networking, Linux administration, reconnaissance, and future cybersecurity exercises.
+The goal was to create a controlled virtual environment where I can safely practice networking, Linux administration, reconnaissance, and future cybersecurity exercises.  
 
-The lab was built using Oracle VirtualBox and Kali Linux. A dedicated VirtualBox NAT Network was configured with DHCP disabled and a manually assigned static IP address for Kali Linux.
+The lab was built using Oracle VirtualBox and Kali Linux. A dedicated VirtualBox NAT Network was configured with DHCP disabled and a manually assigned static IP address for Kali Linux.  
 
 ## 🎯 2. Objectives
 
